@@ -1,0 +1,17 @@
+{
+  "name": "asincronismo",
+  "version": "1.0.0",
+  "description": "Vamos a crear una FakeAPI",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Javascript"
+  ],
+  "author": "Arley Guerrero - aguerrero0615@gmail.com",
+  "license": "MIT",
+  "dependencies": {
+    "xmlhttprequest": "^1.8.0"
+  }
+}
